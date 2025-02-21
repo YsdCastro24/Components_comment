@@ -46,7 +46,8 @@ Este es un componente de comentarios interactivos desarrollado con **React, Fram
 
 ## Capturas de Pantalla
 
-![Vista previa](assets/components.png)
+![Vista previa](https://raw.githubusercontent.com/YsdCastro24/Components_comment/main/public/components.png)
+
 
 ## Contribuciones
 
